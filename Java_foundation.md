@@ -11,7 +11,7 @@
 
 ### JVM vs JDK vs JRE
 
-<img src="E:\面试\pic\JDK.png" style="zoom:75%;" />
+<img src=".\pic\JDK.png" style="zoom:75%;" />
 
 - 运行安装 JRE
 - 编程安装 JDK
@@ -45,7 +45,7 @@ JDK 是 **Java Development Kit** 缩写，它是功能齐全的 Java SDK。它�
 
 **Java 程序从源代码到运行的过程如下图所示：**
 
-![Java程序转变为机器代码的过程](E:\面试\JavaGuide\docs\java\basis\images\java程序转变为机器代码的过程.png)
+![Java程序转变为机器代码的过程](.\JavaGuide\docs\java\basis\images\java程序转变为机器代码的过程.png)
 
 ### JAVA中堆与栈
 
@@ -1020,7 +1020,7 @@ try (BufferedInputStream bin = new BufferedInputStream(new FileInputStream(new F
 
 **序列化的主要目的是通过网络传输对象或者说是将对象存储到文件系统、数据库、内存中。**
 
-![](E:\面试\pic\class2byte.png)
+![](.\pic\class2byte.png)
 
 #### Java 序列化中如果有些字段不想进行序列化，怎么办？
 
@@ -1042,7 +1042,7 @@ try (BufferedInputStream bin = new BufferedInputStream(new FileInputStream(new F
 
 因为，**OSI七层协议模型中的应用层、表示层和会话层对应的都是TCP/IP 四层模型中的应用层**，所以**序列化协议属于TCP/IP协议应用层的一部分。**
 
-![TCP/IP 4层模型](E:\面试\pic\TCPIP.png)
+![TCP/IP 4层模型](.\pic\TCPIP.png)
 
 #### 常见序列化协议对比
 
@@ -1089,11 +1089,11 @@ String s = input.readLine();
 
 按操作方式分类结构图：
 
-![IO-操作方式分类](E:\面试\pic\IO-op.png)
+![IO-操作方式分类](.\pic\IO-op.png)
 
 按操作对象分类结构图：
 
-![IO-操作对象分类](E:\面试\pic\IO-objects.png)
+![IO-操作对象分类](.\pic\IO-objects.png)
 
 ### 既然有了字节流,为什么还要有字符流?
 
@@ -1148,7 +1148,7 @@ AIO 也就是 NIO 2，Java 7 中引入，应用还不是很广泛。
 
 简单总结一下 Java 中的 BIO、NIO、AIO。
 
-![](E:\面试\pic\io_models.png)
+![](.\pic\io_models.png)
 
 
 
