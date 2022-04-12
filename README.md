@@ -37,8 +37,8 @@
 
 **知识点/面试题** : (必看 :+1:)
 
-- [ ] [Java 并发常见知识点&面试题总结（基础篇）](docs/java/concurrent/java-concurrent-questions-01.md)
-- [ ] [Java 并发常见知识点&面试题总结（进阶篇）](docs/java/concurrent/java-concurrent-questions-02.md)
+- [x] [Java 并发常见知识点&面试题总结（基础篇）](docs/java/concurrent/java-concurrent-questions-01.md)
+- [x] [Java 并发常见知识点&面试题总结（进阶篇）](docs/java/concurrent/java-concurrent-questions-02.md)
 
 **重要知识点详解** ：
 
